@@ -285,7 +285,7 @@ de_DE:
     title: Eigenschaften
     rooms: Personalisierte Räume
     recordings: Aufzeichnungsmanagement
-    designs: Eigene Designs
+    designs: Whiteboard
     authentication: Nutzerauthentifizierung
   footer:
     legal: Impressum
@@ -320,9 +320,9 @@ de_DE:
     search:
       start: Suche beginnen...
   landing:
-    about: "%{href} ist eine benutzerfreundliche Oberfläche für das Open-Source-Webkonferenzsystem BigBlueButton. Sie können Ihre eigenen Räume erstellen, um Konferenzen zu veranstalten oder können bestehenden Konferenzen über einen kurzen und bequemen Link beitreten."
-    welcome: Willkommen zu BigBlueButton.
-    video: Schauen Sie sich unsere Anleitung zur Verwendung von Greenlight an
+    about: "Mit BigBlueButton können Sie Ihre eigenen Räume erstellen, um Konferenzen zu veranstalten oder können bestehenden Konferenzen über einen kurzen und bequemen Link beitreten."
+    welcome: BigBlueButton-Server der Pommerschen Diakonie
+    video: Schauen Sie sich diese Anleitung zur Verwendung von Greenlight an
     upgrade: "Zeigen Sie mir, wie ich auf Version 2.0. update!"
     version: "Wir haben eine neue Version von Greenlight veröffentlicht, aber Ihre Datenbank ist damit nicht kompatibel."
   language_default: Voreinstellung (Browsersprache)
